@@ -9,3 +9,6 @@ Random Placement
 Current Placement (Near Hospitals)
 
 K-means Clustering
+
+
+(see SLIDES for more information)
